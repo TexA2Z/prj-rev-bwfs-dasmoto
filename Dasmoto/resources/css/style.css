@@ -62,7 +62,7 @@ img {
 .paint {
   clear: left;
 }
-#price {
+.price {
   font-weight: bold;
   color: blue;
 }
